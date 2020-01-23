@@ -39,7 +39,7 @@ public class Tablero {
 //        if (this.tablero[0][0]=="X"){
 //            
 //        }
-//        
+//        prueba 
 //        return valor;
 //    }
     public boolean victoria() {
